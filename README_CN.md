@@ -1,6 +1,6 @@
 # SAST-Link-SDK
 
-[![License](https://img.shields.io/badge/license-AGPLv3-blue.svg)](https://choosealicense.com/licenses/agpl-3.0/)
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 
 中文/[English](https://github.com/feellmoose/sast-link-java-sdk/blob/main/README.md)
 
